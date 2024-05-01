@@ -1,7 +1,7 @@
 # Da623_Assignment
 **README**
 
-**Assignment: Binary Classification of Logistic Regression**
+**Assignment: Train and demonstrate the decision boundaries for logistic regression, for binary classification**
 
 **Author:** Ankit Mahto  
 **Roll:** 200122011  
