@@ -54,4 +54,4 @@ The code utilizes the diabetes dataset, which provides essential features requir
 
 1. [Scikit-learn documentation](https://scikit-learn.org/stable/documentation.html): Used for understanding logistic regression implementation in Python.
 2. [Video on logistic regression by Andrew Ng](https://www.youtube.com/watch?v=het9HFqo1TQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU): Referenced for understanding basics of logistic regression and decision boundary.
-3. [Blog on Plotting Decision boundary]([https://matplotlib.org/contents.html](https://scipython.com/blog/plotting-the-decision-boundary-of-a-logistic-regression-model/)): Referenced for plotting decision boundaries and visualizations.
+3. [Blog on Plotting Decision boundary](https://scipython.com/blog/plotting-the-decision-boundary-of-a-logistic-regression-model/): Referenced for plotting decision boundaries and visualizations.
