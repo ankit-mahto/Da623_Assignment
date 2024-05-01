@@ -41,7 +41,7 @@ The code utilizes the diabetes dataset, which provides essential features requir
 
 **Note:**
 
-- For any queries or clarifications regarding the assignment or code implementation, please contact the author (Ankit Mahto) at [email@example.com](mailto:ankitmahto02@gmail.com).
+- For any queries or clarifications regarding the assignment or code implementation, please contact the author (Ankit Mahto) at [ankitmahto02@gmail.com](mailto:ankitmahto02@gmail.com).
 
 --- 
 
