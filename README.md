@@ -47,7 +47,7 @@ The code utilizes the diabetes dataset, which provides essential features requir
 
 **Acknowledgments:**
 
-- Special thanks to the course instructor and teaching assistants for their guidance and support throughout the assignment.
+- Special thanks to the course instructor [Neeraj Kumar Sharma] (https://www.iitg.ac.in/iitg_faculty_details?fac=OTFpeUZVUUcwelVhaUxjamp4QWtIZz09) for his guidance and support throughout the assignment.
 - Gratitude to the developers and contributors of the libraries used in this project for their valuable contributions to the Python community.
   
 **References:**
